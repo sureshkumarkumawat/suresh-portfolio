@@ -1,3 +1,4 @@
+
 # Suresh Kumar Kumawat – Portfolio
 
 🚀 MSc Software Engineering Student | Data Science & Machine Learning Enthusiast  
@@ -23,3 +24,5 @@ This is my personal portfolio website showcasing my:
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/suresh2132/
 - Email: sureshkumawat.fr@gmail.com
+# suresh-portfolio
+Personal portfolio website built with HTML, CSS, and JavaScript showcasing my projects, skills, and experience as a Software Developer &amp; Data Scientist.
